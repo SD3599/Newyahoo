@@ -5,7 +5,7 @@ import com.github.fedy2.weather.data.Condition;
 import com.github.fedy2.weather.data.Forecast;
 import com.hellokoding.auth.model.User;
 import com.hellokoding.auth.model.Weather;
-import com.hellokoding.auth.model.WeatherCondition;
+
 import com.hellokoding.auth.service.SecurityService;
 import com.hellokoding.auth.service.UserService;
 import com.hellokoding.auth.service.WeatherService;
